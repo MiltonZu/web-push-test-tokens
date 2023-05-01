@@ -9,7 +9,7 @@ const (
 	EDGE_KEY  = "BJKrsfeG0bPH136/YDnYByUbR7oTLjfMZREFcSGo1p5xwCB3TpjWEf4PHL5FO+Rgs2yDbqonS4QJUzBHQe0DrNA="
 	EDGE_AUTH = "0G9Spnsb3MOQjhwtl38GMQ=="
 
-	FIREFOX_URL  = "https://updates.push.services.mozilla.com/wpush/v2/gAAAAABkTDNV7rMQOittNH8skOQnOwFj2Hm_J0edLbsJ3wCYcdYAX_XwX9gw9O5kOnr24quASesgq-TS3d1F7zbW7qtWZAQnttq48VZfCCy4odmPmCf2QhtsddEvF0TavldqmYYLuDpphcMvKwKh7xwab6rvPQ4RBU2Enhn1xVTQk9zxU55QVpA"
-	FIREFOX_KEY  = "BAg7SVRBbLDyIqL0jH4B+3+nfB0el0iKEhEMTKYVs0ntPAf5Xn8aOW9W3oIK7HeaQnvEz+LGDIb7+NDUUhjDfyA="
-	FIREFOX_AUTH = "sMKGeoAXZgWaBJMM4/y0Gw=="
+	FIREFOX_URL  = "https://updates.push.services.mozilla.com/wpush/v2/gAAAAABkTHZL6G2Wj4aioXkgM9CEwi9Uh1jeQq0q_-Z16E-jezpfap-cuacypqiDR3d3q6ROJyCdu7bG5S-rerjoSGSJo5FXXEhD-WEeIMhzO9MH5H6m2pNQqINsvaaKujVj2UAnCjiVfdFjJhHDH9MLRP3J5KYaZ8lV1-Pvwy8bSU8wSlmnETk"
+	FIREFOX_KEY  = "BECJyL4mEeERdgY2NTo6hsniwxevmPFZKEAneW9jw+At3h8Pf/yKIjP90hpSMSEaLgDmEisNXA9UQ5MPU66gypM="
+	FIREFOX_AUTH = "7rq2puqgKB0rq9vlZyXubQ=="
 )
