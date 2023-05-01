@@ -1,4 +1,4 @@
-package tokens
+package sender
 
 const (
 	SAFARI_URL  = "https://web.push.apple.com/QNb59NxLwyK-a0Xw40CilSl6xbiPIz6w5kaLvDjtH33FnWgJhXqrpB4LtmSvrbIwKzSrmXxe_53s01bSEngIZTOaPqOTrvNiuyfM-nF6MwNweIRY19WAdKXJFDT1FcvV6dJz3ifn80NxRizWtdNJ1rDEuKQ0G-12SMmWSceb4jk"
